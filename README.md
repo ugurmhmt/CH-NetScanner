@@ -35,7 +35,7 @@ A lightweight, high-performance ARP-based network scanner written in Python usin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CH-NetScanner.git
+   git clone https://github.com/ugurmhmt/CH-NetScanner.git
    cd CH-NetScanner
    ```
 
